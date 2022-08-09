@@ -2,7 +2,7 @@
 
 # MSSC Beer Order Service
 
-This repository contains source code examples used to support my on-line courses about the Spring Framework.
+This repository contains source code examples used to study John Thompson on-line courses about the Spring Framework. After forking out the repository, I could not create issues and after updating the code in Intellij could close those issues. Hence, did a clone and uploaded to my repository just for learning purposes. 
 
 You can learn more about the courses here:
 * [Spring Boot Microservices with Spring Cloud](https://www.udemy.com/spring-boot-microservices-with-spring-cloud-beginner-to-guru/?couponCode=GIT_HUB2)
